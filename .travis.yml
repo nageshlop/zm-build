@@ -1,4 +1,4 @@
-dist: bionic
+dist: xenial
 arch:
   - amd64
   - ppc64le
